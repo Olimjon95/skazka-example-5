@@ -24,7 +24,11 @@ strong {
     width: 100%;
     margin: 0 auto;
     position: relative;
-    background: #fff url(../images/bg.jpg);
+    background: url(../img/russkiy-stol.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
     -webkit-font-smoothing: antialiased; 
     overflow-x: hidden;
     font-weight: 300;

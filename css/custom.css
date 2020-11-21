@@ -1,13 +1,13 @@
 /* your styles go here */
 .logo-text{
-    text-shadow: 0px 3px 0px #f3f3f3, 0px 14px 10px rgba(0,0,0,0.15), 0px 24px 2px rgba(0,0,0,0.1), 0px 34px 30px rgba(0,0,0,0.1);
+color: #e0b0ff !important;
 font-family: fantasy ! Important;
 text-transform: uppercase;
 font-size:4.3rem;
 }
 
 .call-block{
-    background-color:#7fb401;
+    background-color: #e0b0ff;
     font-size: 1.0rem ;
     color:#fff;
     line-height: 10px; 
@@ -30,21 +30,23 @@ font-size: 2rem;}
      margin-top: -25px;
 }
 
-.cl-white{color:white !important}
+.cl-white{color:#e0b0ff !important}
 
 .head-texts{
+    margin-top: 40px;
      font-family: fantasy !important;
      font-size: 3rem;
      text-transform: uppercase;
-     background-color: #000000;
+     background-color: #e0b0ff;
     -webkit-background-clip: text;
     -moz-background-clip: text;
     background-clip: text;
     color: transparent;
-    text-shadow: rgba(255,255,255,0.2) 0px 3px 3px;
+    /*text-shadow: rgba(255,255,255,0.2) 0px 3px 3px;*/
     text-align: center;
 }
 
-#dishes{padding-top:0 !important;}
+#dishes{padding-top:0 !important;
+background: #2e3134;}
 #adress{padding-top: 30px;
 padding-bottom:50px ;}
